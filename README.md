@@ -25,7 +25,7 @@ https://epsagon.com/wp-content/uploads/2018/07/how-to-setup-aws-lambda-with-sqs-
 
 
 <div>
-  <img height="78" src="https://miro.medium.com/max/724/0*111wb2gZO_SQ8JT7.png"/>
+  <!--<img height="78" src="https://miro.medium.com/max/724/0*111wb2gZO_SQ8JT7.png"/>-->
   <img width="78" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodeJS" />
 </div>
 
