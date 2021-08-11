@@ -18,14 +18,15 @@ https://epsagon.com/wp-content/uploads/2018/07/how-to-setup-aws-lambda-with-sqs-
     <img width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
     <img width="48" src="https://img.icons8.com/color/48/000000/css3.png" />
     <img width="48" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+</div>
+
+<div>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 </div>
 
 
-
 <div>
-  <!--<img height="78" src="https://miro.medium.com/max/724/0*111wb2gZO_SQ8JT7.png"/>-->
   <img width="78" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodeJS" />
 </div>
 
@@ -35,6 +36,5 @@ https://epsagon.com/wp-content/uploads/2018/07/how-to-setup-aws-lambda-with-sqs-
 
 #
 <div>
-    <img height="30" src="https://komarev.com/ghpvc/?username=Pablovschpaz&color=blue" alt="Pablovschpaz" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=Pablovschpaz&color=blue" alt="Pablovschpaz" />
 </div>
-
