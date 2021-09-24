@@ -23,6 +23,7 @@ https://epsagon.com/wp-content/uploads/2018/07/how-to-setup-aws-lambda-with-sqs-
 <div>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+    <img width="48" height="48" src="https://angular.io/assets/images/logos/angular/angular.svg" />
 </div>
 
 
